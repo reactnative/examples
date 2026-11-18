@@ -1,0 +1,5 @@
+# Every bun install, bun add and bun update in this project, locally, in CI
+# and on Vercel, is checked by Socket's scanner before packages are
+# installed (plan 026). Free mode: no token needed.
+[install.security]
+scanner = "@socketsecurity/bun-security-scanner"

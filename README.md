@@ -17,6 +17,8 @@ bun run typecheck
 bun run start       # Expo: open it in Expo Go, a simulator or the browser
 ```
 
+`bun install` checks each package with [Socket's security scanner](https://github.com/SocketDev/bun-security-scanner) (`bunfig.toml`) before installing it. It needs no account. To install without it, remove the `[install.security]` section.
+
 Each example is type-checked, tested and exported for the web in CI before it is copied here. Changes are made in the site's own repository and copied here automatically, so pull requests here are not merged.
 
 ## License
