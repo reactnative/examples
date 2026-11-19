@@ -5,6 +5,7 @@ Complete, tested Expo projects behind the code-backed articles on [www.reactnati
 | Example | Article |
 |---|---|
 | [`searchable-list`](searchable-list) | [Build a searchable list with FlatList and TextInput](https://www.reactnative.com/build-a-searchable-list-with-flatlist) |
+| [`flashlist-feed`](flashlist-feed) | [Render a long list with FlashList](https://www.reactnative.com/render-a-long-list-with-flashlist) |
 
 ## Run an example
 
