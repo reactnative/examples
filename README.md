@@ -7,6 +7,7 @@ Complete, tested Expo projects behind the code-backed articles on [www.reactnati
 | [`searchable-list`](searchable-list) | [Build a searchable list with FlatList and TextInput](https://www.reactnative.com/build-a-searchable-list-with-flatlist) |
 | [`flashlist-feed`](flashlist-feed) | [Render a long list with FlashList](https://www.reactnative.com/render-a-long-list-with-flashlist) |
 | [`router-tabs`](router-tabs) | [Build tabs and a detail screen with Expo Router](https://www.reactnative.com/build-tabs-and-a-detail-screen-with-expo-router) |
+| [`bottom-sheet`](bottom-sheet) | [Add a bottom sheet with snap points](https://www.reactnative.com/add-a-bottom-sheet-with-snap-points) |
 
 ## Run an example
 
